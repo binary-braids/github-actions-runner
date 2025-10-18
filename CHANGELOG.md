@@ -1,3 +1,7 @@
+## [1.0.155](https://github.com/binary-braids/github-actions-runner/compare/v1.0.154...v1.0.155) (2025-10-18)
+
+
+
 ## [1.0.154](https://github.com/binary-braids/github-actions-runner/compare/v1.0.153...v1.0.154) (2025-10-14)
 
 
@@ -31,10 +35,6 @@
 
 
 ## [1.0.146](https://github.com/binary-braids/github-actions-runner/compare/v1.0.145...v1.0.146) (2025-09-29)
-
-
-
-## [1.0.145](https://github.com/binary-braids/github-actions-runner/compare/v1.0.144...v1.0.145) (2025-09-27)
 
 
 

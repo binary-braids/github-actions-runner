@@ -1,7 +1,7 @@
 FROM ubuntu:22.04@sha256:445586e41c1de7dfda82d2637f5ff688deea9eb5f5812f8c145afacc35b9f0db
 
 # renovate: datasource=github-releases depName=github-actions-runner packageName=actions/runner
-ENV RUNNER_VERSION=2.332.0
+ENV RUNNER_VERSION=2.333.0
 
 ARG DEBIAN_FRONTEND=noninteractive
 

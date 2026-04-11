@@ -130,7 +130,7 @@ jobs:
           labels: ${{ steps.meta.outputs.labels }}
 
       - name: Run Trivy Vulnerability Scanner 🏰
-        uses: aquasecurity/trivy-action@master
+        uses: aquasecurity/trivy-action@f685ba721536b1ff19093eb4e1b1bf994c2bdbe2 # master
         with:
           image-ref: ghcr.io/${{ github.repository_owner }}/${{ env.APP_NAME }}:${{ github.sha }}
           format: 'sarif'

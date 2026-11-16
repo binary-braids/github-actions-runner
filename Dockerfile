@@ -1,4 +1,4 @@
-FROM ubuntu:22.04@sha256:4f838adc7181d9039ac795a7d0aba05a9bd9ecd480d294483169c5def983b64d
+FROM ubuntu:26.04@sha256:d66b366dac61b575bee2aef07e9c26e8070096fbe84a3d4d3eb0da069b5d76db
 
 # renovate: datasource=github-releases depName=github-actions-runner packageName=actions/runner
 ENV RUNNER_VERSION=2.335.1
